@@ -1,12 +1,12 @@
-**###Terminal Commands**
-
-    *mkdir 'name' : Command to create a new folder
-    *cd 'folder name: Command to access a folder or file in a directory
+**#Terminal Commands**
+* ***
+    mkdir 'name' : Command to create a new folder
+    cd 'folder name: Command to access a folder or file in a directory
     cd .. : Command to leave the directory currently accessed
     touch 'file name' : Creating new files/folders
     rm -rf git. : Deleting a repository 
     rmdir : Deleting a directory
-*
+
 **React:**
     npx tailwindcss init -p : Initializing tailwind
     npm run dev : Running application on your local host
