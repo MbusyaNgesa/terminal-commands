@@ -1,4 +1,4 @@
-#Terminal Commands
+##Terminal Commands
     mkdir 'name' : Command to create a new folder
     cd 'folder name: Command to access a folder or file in a directory
     cd .. : Command to leave the directory currently accessed
@@ -22,7 +22,7 @@ Next.js:
     npm run develop : Running Strapi on your local host (Strapi is a type of CMS/Database)
     npm start : Running next.js on local host.
 
-#Github Commands
+##Github Commands
     git init : Initializing git and the project itself.
     git add README.md : Adding a readme file to the project
     git add . : Adding the project to git.
