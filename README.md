@@ -1,28 +1,30 @@
-##Terminal Commands
-    mkdir 'name' : Command to create a new folder
-    cd 'folder name: Command to access a folder or file in a directory
+**###Terminal Commands**
+
+    *mkdir 'name' : Command to create a new folder
+    *cd 'folder name: Command to access a folder or file in a directory
     cd .. : Command to leave the directory currently accessed
     touch 'file name' : Creating new files/folders
     rm -rf git. : Deleting a repository 
     rmdir : Deleting a directory
-
-React:
+*
+**React:**
     npx tailwindcss init -p : Initializing tailwind
     npm run dev : Running application on your local host
 
-Backend (Express):
+**Backend (Express):**
     npm install express : Installing express
     npm init : Initializing express JS
     npm install mongoose : Installing MongoDB(Database0)
     npm install cors: Offers permission to access/open backend
     node(.\index.js - file name) : To run server in backend
 
-Next.js:
+**Next.js:**
     npx create-next-app@latest : Installing latest version of next.js
     npm run develop : Running Strapi on your local host (Strapi is a type of CMS/Database)
     npm start : Running next.js on local host.
 
-##Github Commands
+**#Github Commands**
+
     git init : Initializing git and the project itself.
     git add README.md : Adding a readme file to the project
     git add . : Adding the project to git.
