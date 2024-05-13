@@ -7,11 +7,13 @@
     rm -rf git. : Deleting a repository 
     rmdir : Deleting a directory
 
-**React:**
+**#React:**
+
     npx tailwindcss init -p : Initializing tailwind
     npm run dev : Running application on your local host
 
 **Backend (Express):**
+
     npm install express : Installing express
     npm init : Initializing express JS
     npm install mongoose : Installing MongoDB(Database0)
@@ -19,6 +21,7 @@
     node(.\index.js - file name) : To run server in backend
 
 **Next.js:**
+
     npx create-next-app@latest : Installing latest version of next.js
     npm run develop : Running Strapi on your local host (Strapi is a type of CMS/Database)
     npm start : Running next.js on local host.
