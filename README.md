@@ -48,3 +48,8 @@
     7. '~~~' : Strikethrough
     8. '```' : Highlighting the language you have used and highlights the code.
     9. --'Text'-- : Writing in Italics
+    10. '| | |' : Use pipeline to create tables
+Creating tables
+|Name| Age | Id.No|
+|:----:|:-----:|:------:|
+|Ngesa| 22| 39086990 
